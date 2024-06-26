@@ -1,0 +1,4 @@
+.venv
+myGPT.pem
+.env
+*/__pycache__/

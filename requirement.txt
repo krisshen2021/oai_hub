@@ -1,0 +1,5 @@
+boto3
+uvicorn
+pydantic
+fastapi
+cohere
